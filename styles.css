@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f7f9;
+  background-color: #acd7f3;
   margin: 0;
   padding: 0;
   display: flex;
@@ -21,7 +21,7 @@ main {
 }
 
 #section {
-  background-color: white;
+  background-color: #78b9e4;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   padding: 20px;
@@ -42,7 +42,7 @@ label {
   font-weight: bold;
   display: block;
   margin-bottom: 8px;
-  color: #333;
+  color: #0f486e;
 }
 
 input[type='text'],
